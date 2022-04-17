@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    
+     font-size: 90%;
+    font-family: 'Montserrat';
+}
+.top-bar{
+    background-color: lightgray;
+}
+
+ /* .box-slider-text{
+    background-image: url(images/bg1.jpeg);
+    height:600px;
+   background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  padding-left: 200px;
+  padding-top: 200px;
+}  */
+
+
+
+.border{
+    width: 650px;
+    height: 270px;
+    background: rgba(0,0,0,0.7);
+    padding:30px;
+    margin-bottom: 200px;
+    position: relative;
+}
+.clients-logo {
+    margin: 0 0 30px;
+    border: 1px solid #dadada;
+    min-height: 105px;
+    padding: 0 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    filter: grayscale(100%);
+ background-color: rgb(237, 250, 237);
+    width: 160px;
+   
+}
